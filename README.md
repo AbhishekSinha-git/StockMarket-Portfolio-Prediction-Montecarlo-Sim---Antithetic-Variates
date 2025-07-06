@@ -2,7 +2,7 @@
 
 [![License: Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)](https://img.shields.io/badge/License-CCADI-red.svg?style=flat-square)](https://creativecommons.org/licenses/by-nd/4.0/deed.en)
 
-
+This repository contains an enhanced deep learning-based approach to predict portfolio value and recommend stock allocations for Day 1. The model uses sequences of portfolio values and stock allocations to generate predictions. Additionally, it supports predictions for any user-defined target day in the future.
 
 ## Table of Contents
 
